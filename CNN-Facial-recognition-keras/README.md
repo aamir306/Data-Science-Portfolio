@@ -13,7 +13,7 @@ This project divided into two parts .
 2. Renaming the filenames and save to one place
 3. Save filename with their corresponding label in pandas
 
-*Tools - cv2, pandas, os* 
+**Tools - cv2, pandas, os* *
 
 [Notebook part2](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/CNN-Facial-recognition-keras/Facial_recognition_keras.ipynb)
 
@@ -24,6 +24,6 @@ This project divided into two parts .
 5. Train the Model
 6. Test image on new images
 
-*Tools - numpy ,pandas,tqdm, cv2 , dlib ,matplotlib,keras,ImageDataGenerator*
+**Tools - numpy ,pandas,tqdm, cv2 , dlib ,matplotlib,keras,ImageDataGenerator**
 
 
