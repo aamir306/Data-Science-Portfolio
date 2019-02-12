@@ -8,23 +8,23 @@ Repository containing portfolio of data science projects completed by me for sel
 
 [..More details]()
 
-* Tools:*
+*Tools:*
 - ### Loan-Prediction([Notebook](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/Loan-Prediction-/loan%20prediction%20random%20forrest.ipynb))
 
 [..More details]()
 
-* Tools:*
+*Tools:*
 - ### Movie-Recommandation-system ([Notebook part1](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/Movie-Recommandation-system/1.Cleaning_recom_system.ipynb)-[Notebook part2](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/Movie-Recommandation-system/2.Final_recom_system.ipynb))
 
 [..More details]()
 
-* Tools:*
+*Tools:*
 - ### Time-series-Analysis([Notebook](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/Time-series-Analysis/Time%20series.ipynb))
 
 [..More details]()
 
 
-* Tools:*
+*Tools:*
 - ### Web-Sracaping-of-internshala([Notebook](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/Web-Sracaping-of-internshala/Web%20Scraping%20.ipynb))
 
 [..More details]()
