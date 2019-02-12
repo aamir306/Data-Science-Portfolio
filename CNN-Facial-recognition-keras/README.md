@@ -2,10 +2,12 @@
 
 ## Project detail
 
--**About data** Indian Actors Face Recognition is [kaggle dataset](https://www.kaggle.com/shubham2003/indian-actors-face-recognition) .The dataset includes images of 5 famous Indian film stars. The dataset has been made smaller .The .zip files contain 5 directories and each of them has 30 images of actors.The second zip file contains validation images so that we can evaluate your model.
+-**About data**
+Indian Actors Face Recognition is [kaggle dataset](https://www.kaggle.com/shubham2003/indian-actors-face-recognition) .The dataset includes images of 5 famous Indian film stars. The dataset has been made smaller .The .zip files contain 5 directories and each of them has 30 images of actors.The second zip file contains validation images so that we can evaluate your model.
 
-- **Steps** 
+ **Steps** 
 This project divided into two parts .
+
 [Notebook part1](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/CNN-Facial-recognition-keras/Preprocessing_CNN_Indian_Actors_Face_Recognition.ipynb)
 1. Getting libraries
 2. Renaming the filenames and save to one place
