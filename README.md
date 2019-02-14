@@ -19,7 +19,7 @@ steps-
 5. Random forrest model building
 6. Tunning the parameters
 
-*Tools:seaborn ,matplotlib,missingno ,numpy,warnings,LabelEncoder,RandomForestClassifier*
+*Tools:- seaborn ,matplotlib,missingno ,numpy,warnings,LabelEncoder,RandomForestClassifier*
 
 
 
@@ -28,7 +28,7 @@ This project consist of 5000 movies imdb dateset in which their actor ,dircetor 
 Movie recommendation system is created by cosine similarity .The whole project breaken down into two parts
 1.Data cleaning 2.Recommandation System
 
-*Tools:cosine_similarity,CountVectorizer, pandas,numpy,missingno,seaborn*
+*Tools:- cosine_similarity,CountVectorizer, pandas,numpy,missingno,seaborn*
 
 
 - ### Time-series-Analysis([Notebook](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/Time-series-Analysis/Time%20series.ipynb))
@@ -42,13 +42,13 @@ Steps -
 6. plot ACF/PACF and Find Optimal Parameters
 7. Build ARIMA Model
 
-*Tools:statistics ,statsmodels,pandas,numpy ,matplotlib*
+*Tools:- statistics ,statsmodels,pandas,numpy ,matplotlib*
 
 
 - ### Web-Sracaping-of-internshala([Notebook](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/Web-Sracaping-of-internshala/Web%20Scraping%20.ipynb))
 This project web scrap all the posts of data science internship in nice tabular form.
 
-*Tools:requests,BeautifulSoup,pandas*
+*Tools:- requests,BeautifulSoup,pandas*
 
 
 - ### Demonetisation_sentiment_analysis([Notebook](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/demonetisation_sentiment_analysis/Demonetisation_Sentiment_Analysis.ipynb))
@@ -60,7 +60,7 @@ Steps-
 4.Plot sentiment graph
 5.Wordcloud of sentiment
 
-*Tools:BeautifulSoup,plotly,nltk,wordcloud,matplotlib*
+*Tools: -BeautifulSoup,plotly,nltk,wordcloud,matplotlib*
 
 
 - ### CNN-Facial-recognition-keras([Notebook part1](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/CNN-Facial-recognition-keras/Preprocessing_CNN_Indian_Actors_Face_Recognition.ipynb)-[Notebook part2](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/CNN-Facial-recognition-keras/Facial_recognition_keras.ipynb))
@@ -80,7 +80,7 @@ Buliding the model
 Train the Model
 Test image on new images
 
-Tools - numpy ,pandas,tqdm, cv2 , dlib ,matplotlib,keras,ImageDataGenerator
+*Tools - numpy ,pandas,tqdm, cv2 , dlib ,matplotlib,keras,ImageDataGenerator*
 
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at aamir.k306@yahoo.com
