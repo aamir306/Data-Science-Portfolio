@@ -6,17 +6,24 @@ Repository containing portfolio of data science projects completed by me for sel
 ## Contents
 - ### Data-Cleaning-Airbnb([Notebook](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/Data-Cleaning-Airbnb/Data_Cleaning_Notebook.ipynb))
 
-[..More details]()
 
-*Tools:*
-- ### Loan-Prediction([Notebook](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/Loan-Prediction-/loan%20prediction%20random%20forrest.ipynb))
 
-[..More details]()
+*Tools:* 
+- ### Loan-Prediction([Notebook](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/Loan-Prediction-/loan%20prediction%20random%20forrest.ipynb)) This project contains data about loan applicants as features and their loan status as target variable.The random forrest classifier is used with 80% accuracy.
+steps-
+1. Getting Libraries and data
+2. exploratory data analysis
+3. Filing the Missing values
+4. preprocessoring - hot encoding 
+5. Random forrest model building
+6. Tunning the parameters
 
-*Tools:*
+*Tools:seaborn ,matplotlib,missingno ,numpy,warnings,LabelEncoder,RandomForestClassifier*
+
+
+
 - ### Movie-Recommandation-system ([Notebook part1](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/Movie-Recommandation-system/1.Cleaning_recom_system.ipynb)-[Notebook part2](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/Movie-Recommandation-system/2.Final_recom_system.ipynb))
 
-[..More details]()
 
 *Tools:*
 - ### Time-series-Analysis([Notebook](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/Time-series-Analysis/Time%20series.ipynb))
