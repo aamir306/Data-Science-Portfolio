@@ -39,8 +39,8 @@ Repository containing portfolio of data science projects completed by me for sel
 - ### CNN-Facial-recognition-keras([Notebook part1](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/CNN-Facial-recognition-keras/Preprocessing_CNN_Indian_Actors_Face_Recognition.ipynb)-[Notebook part2](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/CNN-Facial-recognition-keras/Facial_recognition_keras.ipynb))
 
 
-[..More details]()
+[..More details](https://github.com/llAamirll/Data-Science-Portfolio/tree/master/CNN-Facial-recognition-keras#facial-recognition-by-convolutional-neural-network-notebook-part1-notebook-part2)
 
-*Tools:*
+*Tools:cv2, os, numpy ,pandas,tqdm, cv2 , dlib ,matplotlib,keras,ImageDataGenerator*
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at aamir.k306@yahoo.com
