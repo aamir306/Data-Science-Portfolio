@@ -5,10 +5,11 @@ Repository containing portfolio of data science projects completed by me for sel
 
 ## Contents
 - ### Data-Cleaning-Airbnb([Notebook](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/Data-Cleaning-Airbnb/Data_Cleaning_Notebook.ipynb))
+As we know data scientists spend around 80% of their time on cleaning and preparing the data.This Airbnb booking data is quite messy and uncleaned.The data is cleaned and prepared in such a way that it can send to any further operation.
+
+*Tools:pandas,numpy,matplotlib* 
 
 
-
-*Tools:* 
 - ### Loan-Prediction([Notebook](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/Loan-Prediction-/loan%20prediction%20random%20forrest.ipynb)) 
 This project contains data about loan applicants as features and their loan status as target variable.The random forrest classifier is used with 80% accuracy.
 steps-
@@ -46,7 +47,7 @@ Steps-
 
 
 - ### Web-Sracaping-of-internshala([Notebook](https://github.com/llAamirll/Data-Science-Portfolio/blob/master/Web-Sracaping-of-internshala/Web%20Scraping%20.ipynb))
-This project web scrap all the posts of data science internship in nice tabular form.
+This project web scrap all the posts of data science internships in nice tabular form.
 
 *Tools:- requests,BeautifulSoup,pandas*
 
